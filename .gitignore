@@ -23,3 +23,6 @@ go.work.sum
 
 # env file
 .env
+*.swp
+cmd/text2suffix/text2suffix
+cmd/search/count/suffix2needles2count/suffix2needles2count
